@@ -1,0 +1,27 @@
+{
+  "authors" : [
+    "Alexey Melezhik"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+  ],
+  "description" : "Foo module",
+  "license" : "Artistic-2.0",
+  "name" : "Foo",
+  "perl" : "6.*",
+  "provides" : {
+    "Foo" : "lib/Foo.pm6"
+    
+  },
+  "resources" : [
+  ],
+  "source-type" : "git",
+  "source-url" : "https://github.com/melezhik/Foo",
+  "support" : {
+    "bugtracker" : "https://github.com/melezhik/Foo/issues",
+    "source" : "https://github.com/melezhik/foo.git"
+  },
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
